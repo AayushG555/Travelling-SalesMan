@@ -24,14 +24,6 @@ into a root directory and host to a web server.
 
 Enter the distance values between given cities in the given textboxes and press the command button.
 
-**Execution Demo –** 
-
-Consider the graph shown in the figure on the right side. A TSP tour in the graph is 1-2-4-3-1. The cost of the tour is 10+25+30+15 which is 80.
-
-
-
-
-**Implementation Screenshot –** 
 
 
 
