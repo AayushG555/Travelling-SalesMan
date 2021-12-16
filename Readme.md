@@ -3,6 +3,7 @@
 UI Application for calculation of shortest distance using Travelling Salesman Algorithm. The application has been created using HTML, CSS and JavaScript.
 
 The UI Application is hosted on the following link - https://aayushg555.github.io/Travelling-SalesMan/
+Github Repo - https://github.com/AayushG555/Travelling-SalesMan
 
 **Hardware & Software Requirements**  
 
